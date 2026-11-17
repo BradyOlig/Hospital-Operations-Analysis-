@@ -24,16 +24,17 @@ Capacity Utilization Analysis
 Descriptive Statistics
 
 **Key Findings**
+
 Finding 1: Wait Time Is the Primary Driver of Patient Satisfaction
-Analysis indicates that patient satisfaction decreases as wait times increase. Departments with shorter wait times consistently received higher satisfaction scores, suggesting that reducing delays should be a primary focus for management.
+Patient satisfaction appears to decrease as wait times increase. Departments with longer wait times generally received lower satisfaction scores, while departments with shorter waits scored higher. The Emergency Department had both the longest wait times and the lowest satisfaction, suggesting that reducing wait times would likely have the biggest impact on improving the patient experience.										
 
 Finding 2: Emergency Department Is the Primary Capacity Constraint
-The Emergency Department experiences the greatest capacity constraints, operating at 100% bed utilization while refusing more than 76% of patient requests.
+The Emergency Department experiences the greatest capacity constraints, operating at 100% bed utilization while refusing over 76% of patient requests, making it the primary bottleneck in the hospital. General Medicine also faces significant capacity constraints, operating at 97% utilization. Overall, the hospital averages 92.7% bed utilization, meaning most departments are operating close to full capacity. Surgery and ICU have slightly more available capacity but are still heavily utilized. This leaves the hospital with very little room to accommodate sudden increases in patient demand, potentially leading to longer wait times and more refused patients.										
 
 Note: General Medicine also faces significant capacity pressure, operating at approximately 97% utilization. Hospital-wide utilization averages 92.7%, indicating that most departments are operating near maximum capacity. This leaves little capacity cushion to absorb increases in patient demand, likely contributing to longer wait times and higher refusal rates.
 
 Finding 3: Staff Morale Shows Limited Impact on Patient Satisfaction
-While employee morale varied between departments, the analysis found little evidence that morale was a major driver of patient satisfaction. Operational factors such as wait times and service availability appeared to have a stronger influence on patient experiences.
+The data provided limited evidence of a relationship between staff morale and patient satisfaction. While morale varied across departments, satisfaction scores did not consistently increase or decrease alongside morale. This suggests that operational factors such as wait times, service availability, and department capacity have a greater impact on patient satisfaction than staff morale alone.										
 
 **Recomendation**
 1. Expand Emergency Department Capacity
